@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✋, I'm Putra Setyo</h1>
-<div>
+<div style="display: flex; justify-content: center;">
   <img src="https://komarev.com/ghpvc/?username=putrastyo&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   <a href="https://www.linkedin.com/in/putrasetyo/">
     <img src="https://img.shields.io/badge/linkedin-8A2BE2" alt="Linkedin" style="height:22px;">
