@@ -2,7 +2,7 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=putrastyo&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   <a href="https://www.linkedin.com/in/putrasetyo/">
-    <img src="https://img.shields.io/badge/Linkedin?style=for-the-badge&logo=About.me&logoColor=white" alt="Linkedin" style="height:22px;">
+    <img src="https://img.shields.io/badge/linkedin-8A2BE2" alt="Linkedin" style="height:22px;">
   </a>
 </div>
 <h2 align="center">
