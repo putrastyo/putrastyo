@@ -1,12 +1,11 @@
 <h1 align="center">Hi ✋, I'm Putra Setyo</h1>
 <div style="display: flex; justify-content: center;">
-  <img src="https://komarev.com/ghpvc/?username=putrastyo&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   <a href="https://www.linkedin.com/in/putrasetyo/">
     <img src="https://img.shields.io/badge/linkedin-8A2BE2" alt="Linkedin" style="height:22px;">
   </a>
 </div>
 <h2 align="center">
-  Web & Android Developer, Machine Learning, and Data Science Enthusiast
+  Web & Android, Machine Learning, and Data Science Enthusiast
 </h2>
 <div align="center">
  <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3YyeGJuczNnOXVtbDRpb2xpbWdkZTB0cTVoeHBjc2w3ZnFiczd0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" />
