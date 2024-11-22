@@ -5,7 +5,7 @@
   </a>
 </div>
 <h2 align="center">
-  Web, Backend, and Data Science Enthusiast
+  orang BaCkeNd
 </h2>
 <div align="center">
  <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3YyeGJuczNnOXVtbDRpb2xpbWdkZTB0cTVoeHBjc2w3ZnFiczd0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" />
