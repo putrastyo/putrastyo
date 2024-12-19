@@ -13,4 +13,4 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Fullstack Developer with a strong foundation backend. A versatile developer specializing in **MERN, Laravel, NestJs, Typescript, and Golang**.
+Fullstack Dev, tapi enakan backend yah. **MERN, Laravel, NestJs, Typescript, and Golang**.
