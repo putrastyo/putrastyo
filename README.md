@@ -44,3 +44,8 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GORM" />
   <img src="https://img.shields.io/badge/TypeORM-E34F26?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
+
+### Stats
+![putrastyo's Stats](https://github-readme-stats.vercel.app/api?username=putrastyo&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![putrastyo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=putrastyo&theme=gotham&hide_border=true)
+![putrastyo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=putrastyo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
